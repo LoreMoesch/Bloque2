@@ -12,7 +12,7 @@ while saldo >= 0:
     if(saldo < pago_mensual):
         total_pagado = total_pagado+saldo
         
-    if mes >= 0 & mes <= 11
+    if mes >= 0 & mes <= 11:
         saldo = saldo * (1+tasa/12) -  pago_mensual - pago_extra
         total_pagado = total_pagado +  pago_mensual - pago_extra
         mes+= 1   
