@@ -1,3 +1,6 @@
+#Ejercicio que calcula el monto total a pagar y el monto de los intereses de una
+#hipoteca de 500000 pesos, a una tasa fija del 5% anual a 30 años.
+
 saldo = 500000.0
 tasa = 0.05
 pago_mensual = 2684.11
